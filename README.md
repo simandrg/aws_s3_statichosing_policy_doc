@@ -1,0 +1,1 @@
+# aws_s3_statichosing_policy_doc
